@@ -1,0 +1,30 @@
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\bin\x64\Debug\BloodBank.exe.config
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\bin\x64\Debug\BloodBank.exe
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\bin\x64\Debug\BloodBank.pdb
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.DBHandler.resources
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.Form2.resources
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.Form3.resources
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.Form4.resources
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.Form5.resources
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.Form6.resources
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.Form7.resources
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.Properties.Resources.resources
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.exe
+C:\Users\taseneem 21\Documents\Visual Studio 2012\Projects\BloodBank\BloodBank\obj\x64\Debug\BloodBank.pdb
+D:\college\training\BloodBank4\BloodBank\bin\x64\Debug\BloodBank.exe.config
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.exe
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.pdb
+D:\college\training\BloodBank4\BloodBank\bin\x64\Debug\BloodBank.exe
+D:\college\training\BloodBank4\BloodBank\bin\x64\Debug\BloodBank.pdb
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form1.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form2.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form3.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form4.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form5.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form6.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form7.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form8.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Form9.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.Properties.Resources.resources
+D:\college\training\BloodBank4\BloodBank\obj\x64\Debug\BloodBank.csproj.GenerateResource.Cache

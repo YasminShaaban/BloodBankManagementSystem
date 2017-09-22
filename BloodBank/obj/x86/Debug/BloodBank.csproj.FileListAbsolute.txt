@@ -1,0 +1,16 @@
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\bin\x86\Debug\BloodBank.exe.config
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\bin\x86\Debug\BloodBank.exe
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\bin\x86\Debug\BloodBank.pdb
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form1.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form2.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form3.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form4.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form5.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form6.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form7.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form8.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Form9.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.Properties.Resources.resources
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.csproj.GenerateResource.Cache
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.exe
+C:\Users\Nehal\Desktop\BloodBank1\BloodBank\obj\x86\Debug\BloodBank.pdb
